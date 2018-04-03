@@ -1,1 +1,1 @@
-cout >> "hello world" << endl;
+cout << Good Morning << endl;
