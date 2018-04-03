@@ -1,1 +1,0 @@
-cout << Good Morning << endl;
