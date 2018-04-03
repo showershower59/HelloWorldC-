@@ -1,1 +1,1 @@
-wejwe masdlds;sd 
+cin << 123 ;
