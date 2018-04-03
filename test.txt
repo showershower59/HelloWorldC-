@@ -1,1 +1,1 @@
-cout <<good night <<endl;
+cout << good afternoon <<endl;
