@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cout << good morning << endl;
+=======
+cout << good afternoon <<endl;
+>>>>>>> f9a0dc9e0c6642634b359769f167846fcfe48104
